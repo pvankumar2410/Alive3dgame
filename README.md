@@ -7,7 +7,13 @@ version : 2019.3.14f1 (64-bit)
 
 Programming language :C#
 
-this game has 3 virus characters 2 human character 
+this game consists of :
+
+3 virus characters 
+
+2 human character 
+
+3 levels of games 
 
 so the humans should reach the all the checkpoints without getting infected
 
