@@ -20,3 +20,6 @@ so the humans characters should reach the checkpoints without getting infected
 drive link for game 
 
 https://drive.google.com/file/d/1q7NaGIxrfgpC_Jp_ZcV5tNaDVavk2rZl/view?usp=sharing
+
+more about game :
+https://ijsrset.com/IJSRSET21941
