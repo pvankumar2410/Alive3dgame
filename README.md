@@ -15,7 +15,7 @@ this game consists of :
 
 3 levels of games 
 
-so the humans should reach the all the checkpoints without getting infected
+so the humans characters should reach the checkpoints without getting infected
 
 drive link for game 
 
